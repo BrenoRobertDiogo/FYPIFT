@@ -1,0 +1,13 @@
+{
+    "dados" : [
+        { "nome": "Cinesercla, Shopping Montserrat", "lat": -20.193377030876633, "lng": -40.2659432107117 },
+        { "nome": "Cine Araújo, Shopping Mestre Álvaro", "lat": -20.239823182642183, "lng": -40.27488743245451 },
+        { "nome": "Cinemark Shopping Vitória", "lat": -20.313493416492175, "lng": -40.28864600198908 },
+        { "nome": "Cine Jardins", "lat": -20.288985798472137, "lng": -40.29301606808983 },
+        { "nome": "Cine Metrópolis", "lat": -20.277422890917556, "lng": -40.30226451385874 },
+        { "nome": "Cinerótico", "lat": -20.319941026186186, "lng": -40.34118060016587 },
+        { "nome": "Cine Drive in Estácio de Sá", "lat": -20.248414239497958, "lng": -40.27036766948065 },
+        { "nome": "Cinema Cinemark Shopping Vila Velha", "lat": -20.35019743279298, "lng": -40.29842011727377 },
+        { "nome": "Kinoplex Praia da Costa", "lat": -20.3409407491776, "lng": -40.2883428870268 }
+    ]
+}
