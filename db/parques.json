@@ -1,0 +1,46 @@
+{
+    "dados": [
+        {
+            "nome": "Parque da cidade",
+            "lat": -20.20262694884626,
+            "lng": -40.260950777028455
+        },
+        {
+            "nome": "SerraPark Log",
+            "lat": -20.1771024157753,
+            "lng": -40.2581123836328
+        },
+        {
+            "nome": "Parque Mestre Alvaro",
+            "lat": -20.15143451532505,
+            "lng": -40.29541574925914
+        },
+        {
+            "nome": "Parque Botânico Vale",
+            "lat": -20.258005094246183,
+            "lng": -40.26012364925914
+        },
+        {
+            "nome": "Praca De Laranjeiras (Próximo ao Extrabom)",
+            "lat": -20.199445599953613,
+            "lng": -40.25522187994048
+        },
+        {
+            "nome": "Centro Ecológico Projeto Caiman.",
+            "lat": -20.24231597543446,
+            "lng": -40.273216720423974
+        },
+        {
+            "nome": "Jardim Botânico",
+            "lat": -20.132260728675917,
+            "lng": -40.30900357729002
+        },
+        {
+            "nome": "Parquinho Tirolesa",
+            "lat": -20.180904900592026,
+            "lng": -40.25572748611715
+        }
+
+
+    ]
+}

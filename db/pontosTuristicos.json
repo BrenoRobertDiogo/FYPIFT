@@ -1,0 +1,33 @@
+{
+    "dados": [{
+            "nome": "Parque da Fonte Grande",
+            "lat": -20.309159977301956,
+            "lng": -40.34144671044358
+        },
+        {
+            "nome": "Morro do Moreno",
+            "lat": -20.3263872859498,
+            "lng": -40.277085696657466
+        },
+        {
+            "nome": "Farol Santa Luzia",
+            "lat": -20.32493853244505, 
+            "lng": -40.2681593057991
+        },
+        {
+            "nome": "Convento da Penha",
+            "lat": -20.3291237833232, 
+            "lng": -40.28721371705445
+        },
+        {
+            "nome": "Parque Estadual da Pedra Azul",
+            "lat": -20.394310148606277, 
+            "lng": -41.02659804950898
+        },
+        {
+            "nome": "Museu do chocolate Garoto",
+            "lat": -20.337660216547686, 
+            "lng": -40.30942259284592
+        }
+    ]
+}
