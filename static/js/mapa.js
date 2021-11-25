@@ -59,6 +59,7 @@ const MarkAllPoints = async () => {
 
     const dadosParque = await BuscaDadosApi(document.location.origin + "/dados/parque");
     dadosParque.dados.forEach( element => {
+        console.log(element);
         todosMark.push( criarMarcador(parqueIcon, element.lat, element.lng) )
     });
 
